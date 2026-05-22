@@ -1,0 +1,38 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f0f4f8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  background: white;
+  padding: 40px 60px;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #4a5568;
+  margin-bottom: 8px;
+}
+
+p {
+  color: #718096;
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+}
+
+.badge {
+  background: #c6f6d5;
+  color: #276749;
+  padding: 8px 20px;
+  border-radius: 20px;
+  font-weight: bold;
+  display: inline-block;
+}

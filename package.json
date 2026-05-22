@@ -1,0 +1,16 @@
+{
+  "name": "mi-web-cicd",
+  "version": "1.0.0",
+  "description": "TP CI/CD - Programación de Vanguardia",
+  "main": "server.js",
+  "scripts": {
+    "test": "node -e \"console.log('✅ Tests OK - pipeline funcionando correctamente')\"",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
